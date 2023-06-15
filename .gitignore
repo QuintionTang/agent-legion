@@ -1,0 +1,15 @@
+__pycache__/
+.env
+env/
+.venv
+*venv/
+session.txt
+.vscode/
+.idea/
+node_modules
+# 3rd party
+package.json
+package-lock.json
+*cookies.json
+# testing
+**/.ipynb_checkpoints/
